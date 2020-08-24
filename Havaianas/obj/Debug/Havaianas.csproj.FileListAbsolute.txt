@@ -1,0 +1,380 @@
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\bin\Debug\Havaianas.exe.config
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\bin\Debug\Havaianas.exe
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\bin\Debug\Havaianas.pdb
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\bin\Debug\BLL.dll
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\bin\Debug\DAO.dll
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\bin\Debug\BLL.pdb
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\bin\Debug\DAO.pdb
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.csprojResolveAssemblyReference.cache
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Form1.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Properties.Resources.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Menu.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.csproj.GenerateResource.Cache
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.exe
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.pdb
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuCadastros.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuConsultas.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuContasApagar.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuVenda.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmFormDeCadastro.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCategoria.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCliente.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFornecedor.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFuncionario.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadLancamento.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadNivelAcesso.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadProduto.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadTitulo.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadUsuario.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCategoria.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCliente.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFornecedor.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFuncionario.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaNivel.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaProduto.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaUsuario.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmModeloConsulta.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Contas.FrmContasApagar.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmVender.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmConsultaVenda.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin.resources
+C:\Users\Feitoza\Desktop\Havaianas\Havaianas\bin\Debug\MaterialSkin.dll
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Havaianas\Havaianas\bin\Debug\Havaianas.exe.config
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Havaianas\Havaianas\obj\Debug\Havaianas.exe
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Havaianas\Havaianas\obj\Debug\Havaianas.pdb
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\bin\Debug\Havaianas.exe.config
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.exe
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.pdb
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.csprojResolveAssemblyReference.cache
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Properties.Resources.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCategoria.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCliente.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFornecedor.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFuncionario.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadLancamento.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadNivelAcesso.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadProduto.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadTitulo.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadUsuario.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCategoria.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCliente.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFornecedor.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFuncionario.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaNivel.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaProduto.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaUsuario.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Contas.FrmContasApagar.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menu.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuCadastros.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuConsultas.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuContasApagar.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuVenda.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmFormDeCadastro.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmModeloConsulta.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmConsultaVenda.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmVender.resources
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\obj\Debug\Havaianas.csproj.GenerateResource.Cache
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\bin\Debug\Havaianas.exe
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\bin\Debug\Havaianas.pdb
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\bin\Debug\BLL.dll
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\bin\Debug\DAO.dll
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\bin\Debug\MaterialSkin.dll
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\bin\Debug\BLL.pdb
+C:\Users\Feitoza\Desktop\Projeto Havaianas\Desktop\Havaianas\bin\Debug\DAO.pdb
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmEstoque.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\XanderUI.dll
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\Havaianas.exe.config
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\Havaianas.exe
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\Havaianas.pdb
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\BLL.dll
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\DAO.dll
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\MaterialSkin.dll
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\BLL.pdb
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\bin\Debug\DAO.pdb
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.csprojAssemblyReference.cache
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Properties.Resources.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCategoria.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCliente.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFornecedor.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFuncionario.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadLancamento.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadNivelAcesso.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadProduto.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadTitulo.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadUsuario.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCategoria.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCliente.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFornecedor.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFuncionario.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaNivel.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaProduto.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaUsuario.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Contas.FrmContasApagar.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menu.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmEstoque.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuCadastros.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuConsultas.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuContasApagar.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuVenda.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmFormDeCadastro.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmModeloConsulta.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmConsultaVenda.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmVender.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.csproj.GenerateResource.cache
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.csproj.CoreCompileInputs.cache
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.csproj.CopyComplete
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.exe
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.pdb
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuPrincipal.resources
+Z:\PROJETO HAVAIANAS\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmAtualizarEstoque.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.exe.config
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.exe
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.pdb
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csprojResolveAssemblyReference.cache
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Properties.Resources.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCategoria.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCliente.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFornecedor.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFuncionario.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadLancamento.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadNivelAcesso.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadProduto.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadTitulo.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadUsuario.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmAtualizarEstoque.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCategoria.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCliente.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFornecedor.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFuncionario.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaNivel.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaProduto.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaUsuario.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Contas.FrmContasApagar.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menu.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmEstoque.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuCadastros.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuConsultas.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuContasApagar.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuPrincipal.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuVenda.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmFormDeCadastro.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmModeloConsulta.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmConsultaVenda.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmVender.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csproj.GenerateResource.Cache
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.exe
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.pdb
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\BLL.dll
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\DAO.dll
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\MaterialSkin.dll
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\BLL.pdb
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\DAO.pdb
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadastrarCupom.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCupom.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmSplahScreen.resources
+C:\Users\Feitoza\Desktop\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin2.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.exe.config
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.exe
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.pdb
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\BLL.dll
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\DAO.dll
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\MaterialSkin.dll
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\BLL.pdb
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\DAO.pdb
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csprojAssemblyReference.cache
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Properties.Resources.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadastrarCupom.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCategoria.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCliente.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFornecedor.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFuncionario.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadLancamento.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadNivelAcesso.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadProduto.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadTitulo.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadUsuario.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmAtualizarEstoque.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCategoria.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCliente.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCupom.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFornecedor.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFuncionario.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaNivel.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaProduto.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaUsuario.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Contas.FrmContasApagar.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin2.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmSplahScreen.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menu.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmEstoque.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuCadastros.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuConsultas.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuContasApagar.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuPrincipal.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuVenda.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmFormDeCadastro.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmModeloConsulta.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmConsultaVenda.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmVender.resources
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csproj.GenerateResource.cache
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csproj.CoreCompileInputs.cache
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csproj.CopyComplete
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.exe
+Z:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.pdb
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.exe.config
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.exe
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.pdb
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.exe.config
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.exe
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.pdb
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\BLL.dll
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Bunifu_UI_v1.52.dll
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\DAO.dll
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\MaterialSkin.dll
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\XanderUI.dll
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\BLL.pdb
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\DAO.pdb
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csprojAssemblyReference.cache
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Properties.Resources.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadastrarCupom.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCategoria.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCliente.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFornecedor.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFuncionario.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadLancamento.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadNivelAcesso.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadProduto.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadTitulo.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadUsuario.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmAtualizarEstoque.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCategoria.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCliente.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCupom.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFornecedor.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFuncionario.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaNivel.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaProduto.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaUsuario.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Contas.FrmContasApagar.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FaleConosco.FrmFaleConosco.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin2.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmSplahScreen.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menu.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmEstoque.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuCadastros.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuConsultas.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuContasApagar.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuPrincipal.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuVenda.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmFormDeCadastro.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmModeloConsulta.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmConsultaVenda.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmVender.resources
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csproj.GenerateResource.cache
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csproj.CoreCompileInputs.cache
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csproj.CopyComplete
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.exe
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.pdb
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.exe
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Havaianas.pdb
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\BLL.dll
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\Bunifu_UI_v1.52.dll
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\DAO.dll
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\MaterialSkin.dll
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\XanderUI.dll
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\BLL.pdb
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\bin\Debug\DAO.pdb
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csprojResolveAssemblyReference.cache
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Properties.Resources.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadastrarCupom.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCategoria.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCliente.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFornecedor.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFuncionario.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadLancamento.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadNivelAcesso.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadProduto.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadTitulo.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadUsuario.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmAtualizarEstoque.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCategoria.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCliente.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCupom.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFornecedor.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFuncionario.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaNivel.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaProduto.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaUsuario.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Contas.FrmContasApagar.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FaleConosco.FrmFaleConosco.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin2.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmSplahScreen.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menu.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmEstoque.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuCadastros.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuConsultas.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuContasApagar.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuPrincipal.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuVenda.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmFormDeCadastro.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmModeloConsulta.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmConsultaVenda.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmVender.resources
+D:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.csproj.GenerateResource.Cache
+E:\PROJETO HAVAIANAS +Recente\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FaleConosco.FrmResponder.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\bin\Debug\Havaianas.exe.config
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.exe
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.pdb
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\bin\Debug\Havaianas.exe
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\bin\Debug\Havaianas.pdb
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\bin\Debug\BLL.dll
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\bin\Debug\DAO.dll
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\bin\Debug\MaterialSkin.dll
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\bin\Debug\BLL.pdb
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\bin\Debug\DAO.pdb
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.csprojResolveAssemblyReference.cache
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Properties.Resources.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadastrarCupom.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCategoria.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadCliente.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFornecedor.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadFuncionario.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadLancamento.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadNivelAcesso.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadProduto.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadTitulo.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmCadUsuario.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Cadastros.FrmAtualizarEstoque.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCategoria.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCliente.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaCupom.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFornecedor.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaFuncionario.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaNivel.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaProduto.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Consultas.FrmConsultaUsuario.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Contas.FrmContasApagar.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FaleConosco.FrmFaleConosco.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FaleConosco.FrmResponder.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmLogin2.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.FrmSplahScreen.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menu.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmEstoque.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuCadastros.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuConsultas.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuContasApagar.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuPrincipal.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Menus.FrmMenuVenda.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmFormDeCadastro.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Modelos.FrmModeloConsulta.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmConsultaVenda.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.Telas.Vender.FrmVender.resources
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\PROJETO HAV\Desktop\Havaianas\obj\Debug\Havaianas.csproj.GenerateResource.Cache

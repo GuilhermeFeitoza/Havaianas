@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F958636-A540-47A1-8920-4F2D371B42E9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Havaianas</RootNamespace>
+    <AssemblyName>Havaianas</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XanderUI">
+      <HintPath>..\..\..\XanderUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Telas\Cadastros\FrmCadastrarCupom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadastrarCupom.Designer.cs">
+      <DependentUpon>FrmCadastrarCupom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadCategoria.Designer.cs">
+      <DependentUpon>FrmCadCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadCliente.Designer.cs">
+      <DependentUpon>FrmCadCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadFornecedor.Designer.cs">
+      <DependentUpon>FrmCadFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadFuncionario.Designer.cs">
+      <DependentUpon>FrmCadFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadLancamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadLancamento.Designer.cs">
+      <DependentUpon>FrmCadLancamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadNivelAcesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadNivelAcesso.Designer.cs">
+      <DependentUpon>FrmCadNivelAcesso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadProduto.Designer.cs">
+      <DependentUpon>FrmCadProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadTitulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadTitulo.Designer.cs">
+      <DependentUpon>FrmCadTitulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmCadUsuario.Designer.cs">
+      <DependentUpon>FrmCadUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmAtualizarEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Cadastros\FrmAtualizarEstoque.Designer.cs">
+      <DependentUpon>FrmAtualizarEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaCategoria.Designer.cs">
+      <DependentUpon>FrmConsultaCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaCliente.Designer.cs">
+      <DependentUpon>FrmConsultaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaCupom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaCupom.Designer.cs">
+      <DependentUpon>FrmConsultaCupom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaFornecedor.Designer.cs">
+      <DependentUpon>FrmConsultaFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaFuncionario.Designer.cs">
+      <DependentUpon>FrmConsultaFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaNivel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaNivel.Designer.cs">
+      <DependentUpon>FrmConsultaNivel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaProduto.Designer.cs">
+      <DependentUpon>FrmConsultaProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Consultas\FrmConsultaUsuario.Designer.cs">
+      <DependentUpon>FrmConsultaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Contas\FrmContasApagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Contas\FrmContasApagar.Designer.cs">
+      <DependentUpon>FrmContasApagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FaleConosco\FrmFaleConosco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FaleConosco\FrmFaleConosco.Designer.cs">
+      <DependentUpon>FrmFaleConosco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FaleConosco\FrmResponder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FaleConosco\FrmResponder.Designer.cs">
+      <DependentUpon>FrmResponder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FrmLogin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FrmLogin2.Designer.cs">
+      <DependentUpon>FrmLogin2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FrmSplahScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FrmSplahScreen.Designer.cs">
+      <DependentUpon>FrmSplahScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmEstoque.Designer.cs">
+      <DependentUpon>FrmEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuCadastros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuCadastros.Designer.cs">
+      <DependentUpon>FrmMenuCadastros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuConsultas.Designer.cs">
+      <DependentUpon>FrmMenuConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuContasApagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuContasApagar.Designer.cs">
+      <DependentUpon>FrmMenuContasApagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuPrincipal.Designer.cs">
+      <DependentUpon>FrmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Menus\FrmMenuVenda.Designer.cs">
+      <DependentUpon>FrmMenuVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Modelos\FrmFormDeCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Modelos\FrmFormDeCadastro.Designer.cs">
+      <DependentUpon>FrmFormDeCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Modelos\FrmModeloConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Modelos\FrmModeloConsulta.Designer.cs">
+      <DependentUpon>FrmModeloConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Vender\FrmConsultaVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Vender\FrmConsultaVenda.Designer.cs">
+      <DependentUpon>FrmConsultaVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Vender\FrmVender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Vender\FrmVender.Designer.cs">
+      <DependentUpon>FrmVender.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadastrarCupom.resx">
+      <DependentUpon>FrmCadastrarCupom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadCategoria.resx">
+      <DependentUpon>FrmCadCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadCliente.resx">
+      <DependentUpon>FrmCadCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadFornecedor.resx">
+      <DependentUpon>FrmCadFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadFuncionario.resx">
+      <DependentUpon>FrmCadFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadLancamento.resx">
+      <DependentUpon>FrmCadLancamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadNivelAcesso.resx">
+      <DependentUpon>FrmCadNivelAcesso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadProduto.resx">
+      <DependentUpon>FrmCadProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadTitulo.resx">
+      <DependentUpon>FrmCadTitulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmCadUsuario.resx">
+      <DependentUpon>FrmCadUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Cadastros\FrmAtualizarEstoque.resx">
+      <DependentUpon>FrmAtualizarEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Consultas\FrmConsultaCategoria.resx">
+      <DependentUpon>FrmConsultaCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Consultas\FrmConsultaCliente.resx">
+      <DependentUpon>FrmConsultaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Consultas\FrmConsultaCupom.resx">
+      <DependentUpon>FrmConsultaCupom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Consultas\FrmConsultaFornecedor.resx">
+      <DependentUpon>FrmConsultaFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Consultas\FrmConsultaFuncionario.resx">
+      <DependentUpon>FrmConsultaFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Consultas\FrmConsultaNivel.resx">
+      <DependentUpon>FrmConsultaNivel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Consultas\FrmConsultaProduto.resx">
+      <DependentUpon>FrmConsultaProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Consultas\FrmConsultaUsuario.resx">
+      <DependentUpon>FrmConsultaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Contas\FrmContasApagar.resx">
+      <DependentUpon>FrmContasApagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FaleConosco\FrmFaleConosco.resx">
+      <DependentUpon>FrmFaleConosco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FaleConosco\FrmResponder.resx">
+      <DependentUpon>FrmResponder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FrmLogin2.resx">
+      <DependentUpon>FrmLogin2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FrmSplahScreen.resx">
+      <DependentUpon>FrmSplahScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menus\FrmEstoque.resx">
+      <DependentUpon>FrmEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menus\FrmMenuCadastros.resx">
+      <DependentUpon>FrmMenuCadastros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menus\FrmMenuConsultas.resx">
+      <DependentUpon>FrmMenuConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menus\FrmMenuContasApagar.resx">
+      <DependentUpon>FrmMenuContasApagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menus\FrmMenuPrincipal.resx">
+      <DependentUpon>FrmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Menus\FrmMenuVenda.resx">
+      <DependentUpon>FrmMenuVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Modelos\FrmFormDeCadastro.resx">
+      <DependentUpon>FrmFormDeCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Modelos\FrmModeloConsulta.resx">
+      <DependentUpon>FrmModeloConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Vender\FrmConsultaVenda.resx">
+      <DependentUpon>FrmConsultaVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Vender\FrmVender.resx">
+      <DependentUpon>FrmVender.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{7d12ae7c-e699-4cf9-8a16-8bbaf362f4ec}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{313bad83-110a-4ec7-b714-9e408fe987c4}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon cerrar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\semimagem.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\havaianas-logo-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Contas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Exchange_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Vender.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Funcionarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Plus_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\List View_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Account_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Sell Stock_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Move Stock_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\havaianas-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Cancel_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Unavailable_48px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
